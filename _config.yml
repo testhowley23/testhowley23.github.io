@@ -21,9 +21,10 @@ author: Test Howley 2023
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - CSCI103: "https://glow.williams.edu/courses/3619553"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Williams CS: "https://www.cs.williams.edu/"
+  Author's home: "https://www.irishowley.com"
 
 ################
 # --- Logo --- #
